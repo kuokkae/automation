@@ -16,4 +16,5 @@ Scraping phase will output a flat file daily. Loading phase will take the flat f
 always read robots.txt on the website by going http://yourwebsite/robots.txt, most website will have this file, and read their requirement
 be courteous and space out the request to avoid overloading the server
 
-#
+# reading
+scheduling task https://stackoverflow.com/questions/44727232/scheduling-a-py-file-on-task-scheduler-in-windows-10/44727480
