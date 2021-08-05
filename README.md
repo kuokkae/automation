@@ -1,4 +1,4 @@
-# data collection project
+# data collection pipeline
 the need here is that you are required to conduct some data collection from the internet, say you're interested to see how the car price fluctuate across a certain duration
 
 # purpose:
